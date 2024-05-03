@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Areeb! 👋</h1>
-  <p align="center">
-    <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Student+Researcher+in+Natural+Language+Processing;AI+and+Machine+Learning+Developer;Full+Stack+and+Mobile+Developer" alt="Typing SVG" /> />
-  </p>
 </div>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Student+Researcher+in+Natural+Language+Processing;AI+and+Machine+Learning+Developer;Full+Stack+and+Mobile+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <!-- <a href="https://www.example.com/your-resume">
