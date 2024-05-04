@@ -34,7 +34,7 @@
 
 <h3 align="center">Databases and Cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,azure,graphql,supabase,cloudflare" alt="Databases and Cloud" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,azure,graphql,supabase,cloudflare,docker" alt="Databases and Cloud" />
 </p>
 
 <h3 align="center">Currently Learning</h3>
