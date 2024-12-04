@@ -44,9 +44,9 @@
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,swift,angular,redis" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,swift,angular,redis,vue" alt="Currently Learning" />
 </p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=are021&theme=synthwave&show_icons=true" alt="Areeb's GitHub stats" />
+</p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?"are021"&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
